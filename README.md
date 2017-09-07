@@ -1,2 +1,2 @@
 # Keyword_extraction
-Version1
+This file includes some preparatory works and related code of the final project.
